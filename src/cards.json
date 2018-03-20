@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "image": "./images/dude1.jpg",
+    "clicked": false
+  },
+  {
+    "id": "2",
+    "image": "./images/dude2.jpg",
+    "clicked": false
+  },
+  {
+    "id": "3",
+    "image": "./images/dude3.jpg",
+    "clicked": false
+  },
+  {
+    "id": "4",
+    "image": "./images/dude4.jpg",
+    "clicked": false
+  },
+  {
+    "id": "5",
+    "image": "./images/dude5.jpg",
+    "clicked": false
+  },
+  {
+    "id": "6",
+    "image": "./images/dude6.jpg",
+    "clicked": false
+  },
+  {
+    "id": "7",
+    "image": "./images/dude7.jpg",
+    "clicked": false
+  },
+  {
+    "id": "8",
+    "image": "./images/dude8.jpg",
+    "clicked": false
+  },
+  {
+    "id": "9",
+    "image": "./images/dude9.jpg",
+    "clicked": false
+  },
+  {
+    "id": "10",
+    "image": "./images/dude10.jpg",
+    "clicked": false
+  },
+  {
+    "id": "11",
+    "image": "./images/dude11.jpg",
+    "clicked": false
+  },
+  {
+    "id": "12",
+    "image": "./images/dude12.jpg",
+    "clicked": false
+  }
+]

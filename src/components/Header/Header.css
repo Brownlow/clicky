@@ -1,0 +1,20 @@
+.logo{
+    font-weight:bold;
+    font-size:24px
+}
+
+.navbar{
+    background-color:#FF3366;
+    height:80px;
+    color:#fff;
+}
+
+.messages{margin:0 auto}
+
+.card-header-tabs{
+    width:100%
+}
+
+.score{
+    width: 100px;
+}

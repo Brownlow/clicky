@@ -1,0 +1,16 @@
+.card{
+    width:200px;
+    height:200px;
+    margin:20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden
+}
+
+.card img{
+    flex-shrink: 0;
+    min-width: 100%;
+    min-height: 100%
+}
+
