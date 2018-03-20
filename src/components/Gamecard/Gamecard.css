@@ -1,16 +1,35 @@
 .card{
-    width:200px;
-    height:200px;
-    margin:20px 0;
+    width:180px;
+    height:180px;
+    margin:10px 0;
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden
+    overflow: hidden;
+    box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(0,0,0,.23);
+    border:5px solid #fff
+}
+.card:hover{
+    transform: scale(1.05);
+    transition: .1s;
+    box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
 }
 
 .card img{
     flex-shrink: 0;
     min-width: 100%;
     min-height: 100%
+}
+
+.shake{
+    animation: shake .5s .0125s;
+    animation-name: shake;
+    animation-duration: 0.5s;
+    animation-timing-function: initial;
+    animation-delay: 0.0125s;
+    animation-iteration-count: initial;
+    animation-direction: initial;
+    animation-fill-mode: initial;
+    animation-play-state: initial;
 }
 

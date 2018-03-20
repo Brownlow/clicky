@@ -13,6 +13,5 @@ const Header = (props) => (
     </ul>
   </div>
 </nav>
-  
 ) 
 export default Header;
